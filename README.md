@@ -28,7 +28,6 @@ O zaman doğru yerdesin. Tuebtu; kendi yazdığım, temel yapı taşlarını bar
 ✅ Minimal & Modüler Routing  
 ✅ PDO Tabanlı ORM Sistemi  
 ✅ Basit ve Güvenli Auth (Giriş / Çıkış)  
-✅ Admin Panel ile CRUD (Kategori, Marka, Ürün)  
 ✅ Kendi projenin iskeletini kurmak için birebir!
 
 ---
