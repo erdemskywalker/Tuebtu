@@ -1,11 +1,20 @@
 <?php
+include "TemplateEngine.php";
+session_start();
+
+$template = new TemplateEngine(__DIR__ . '/views');
 
 $routes = [
-    '' => 'main',                      
+    '' => 'main'
 ];
 
 
 function main() {
-    include 'views/main.php';
+    global $template;
+    echo $template->render('main');
 }
+
+
+
+
 
