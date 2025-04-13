@@ -41,11 +41,6 @@ cd Tuebtu
 composer install
 ```
 
-🔐 Admin Panel
-Admin panelinde ürünleri, markaları ve kategorileri kolayca yönetebilirsin.
-💻 Giriş: /login
-🛠 Yönetici işlemleri sonrası bir ☕ hak ettin!
-
 💬 Katkıda Bulun
 PR gönder, issue aç, yorum yap, yıldızla ⭐ — hepsi benim için önemli.
 Eğer sen de framework dünyasına adım atmak istiyorsan, birlikte büyüyebiliriz.
